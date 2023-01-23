@@ -6,7 +6,7 @@
 - Currently an ms student at uc san diego majoring computer science.
 - Received bachelor's degree of computer science and technology at zju.
 - Previously worked as an intern at microsoft and pingcap.
-- Interested in computer graphics,  computational neuroscience and skateboarding.
+- Interested in hacking, skateboarding and computer graphics.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MartinNose) 
 
