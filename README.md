@@ -14,7 +14,7 @@ My interests include computer graphics, neuroscience and skateboarding.
 
 
 ### Previously, I... 👨‍💻
-- Done a Research Assistantship at Zhejiang University, accelerating a particle opmitization process for **21.42** times for mesh generation!
+- Done a Research Assistantship at Zhejiang University, accelerating a particle opmitization process for **21.42 times** for mesh generation!
 - Worked as a Software Engineer Intern at Microsoft, where I built a helpful visulization tool for troubleshooting on Azure Cloud Platform.
 - Worked as a CI/CD Engineer Intern at PingCAP, playing with Jenkins cluster, helping improve pipeline jobs and doing log profiling.
 
