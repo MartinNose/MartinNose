@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Junliang!
 
-I'm a graduate student at UC San Diego majoring in Computer Science. I received my Bachelor's degree in Computer Science and Technology at ZJU in 2022.
+I'm a graduate student at UC San Diego majoring in Computer Science. And I received my Bachelor's degree in Computer Science and Technology at ZJU.
 
-My interests include computer graphics, neuroscience and skateboarding.
+My interests include computer graphics, neuroscience, web development and skateboarding.
 
 *I hope to ship elegant and efficient code that helps.*
 
@@ -10,12 +10,12 @@ My interests include computer graphics, neuroscience and skateboarding.
 ### Currently I'm... 🤔
 - Looking for internship/full-time opportunities. 🧑‍🏭
 - Learning Tre Flip and Inward Heelflip. 🛹
-- Exploring computational neuroscience and machine learning. 🪄
+- Exploring kubernetes, computational neuroscience and machine learning. 🪄
 
 
 ### Previously, I... 👨‍💻
-- Done a Research Assistantship at ZJU, accelerating a particle opmitization process for **21.42x** times for mesh generation!
-- Worked as a Software Engineer Intern at Microsoft, where I built a helpful visulization tool for troubleshooting on Azure Cloud Platform.
+- Done a Research Assistantship at ZJU, where I accelerated a particle opmitization process for **21.42x** times for mesh generation with intrinsic representation!
+- Worked as a Software Engineer Intern at Microsoft, where I built a tool that visualizes data lineages on Azure Cloud Platform.
 - Worked as a CI/CD Engineer Intern at PingCAP, playing with Jenkins cluster, helping improve pipeline jobs and doing log profiling.
 
 
