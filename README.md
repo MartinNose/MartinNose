@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Junliang!
 
-I'm a graduate student at UC San Diego majoring in Computer Science. And I received my Bachelor's degree in Computer Science and Technology at ZJU.
+I'm a graduate student at UC San Diego majoring in Computer Science. And I received my Bachelor's degree in Computer Science and Technology at Zhejiang University.
 
-My interests include computer graphics, neuroscience, web development and skateboarding.
+My interests include computer graphics, web development, neuroscience and skateboarding.
 
 *I hope to ship elegant and efficient code that helps.*
 
