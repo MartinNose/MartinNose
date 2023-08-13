@@ -8,9 +8,9 @@ My interests include computer graphics, web development, neuroscience and skateb
 
 
 ### Currently I'm... 🤔
-- Looking for internship/full-time opportunities. 🧑‍🏭
-- Learning Tre Flip and Inward Heelflip. 🛹
+- Looking for full-time opportunities. 🧑‍🏭
 - Exploring kubernetes, computational neuroscience and machine learning. 🪄
+- Learning Tre Flip and Inward Heelflip. 🛹
 
 
 ### Previously, I... 👨‍💻
