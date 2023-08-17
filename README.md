@@ -15,7 +15,7 @@ My interests include computer graphics, web development, neuroscience and skateb
 
 ### Previously, I... 👨‍💻
 - Done a Research Assistantship at ZJU, where I accelerated a particle opmitization process for **21.42x** times for mesh generation with intrinsic representation and built the whole optimization pipeline with related algorithms of ~3K lines of C++ in 2 weeks!
-- Worked as a Software Engineer Intern at Microsoft, where I built a tool that visualizes data lineages on Azure Cloud Platform that helps reduce troubleshooting cost.
+- Worked as a Software Engineer Intern at Microsoft, where I built a tool that visualizes data lineages on Azure Cloud Platform that helps reduce troubleshooting cost from 20 mins of manually searching the codebase to a few clicks.
 - Worked as a CI/CD Engineer Intern at PingCAP, playing with Jenkins cluster, helping improve pipeline jobs and doing log profiling.
 
 
